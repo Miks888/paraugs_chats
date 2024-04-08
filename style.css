@@ -1,3 +1,18 @@
 body {
-    background-color: purple;
+    background-image: url(https://removal.ai/wp-content/uploads/2021/05/image8.png);
+}
+.pamatalaukums{
+    background-color: darkblue;
+    width: 500px;
+    height: 500px;
+    border: 2px solid white ;
+    padding: 10px; 
+    margin: auto;
+}
+.cataZina{
+   background-color: crimson;
+   height: 430px;
+   padding: 10px;
+   overflow: scroll;
+   color: black;
 }
